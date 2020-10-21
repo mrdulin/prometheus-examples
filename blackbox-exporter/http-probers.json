@@ -1,0 +1,11 @@
+[
+    {
+        "targets": [
+            "http://prometheus.io",
+            "https://prometheus.io",
+            "http://www.example.com",
+            "https://www.example.com",
+            ""
+        ]
+    }
+]
